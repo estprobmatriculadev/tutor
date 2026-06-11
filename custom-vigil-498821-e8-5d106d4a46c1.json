@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "custom-vigil-498821-e8",
+  "private_key_id": "5d106d4a46c16f89f93412e7f159941c99bbe0da",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD41dKbpqiag2f6\nMzKgIRQKEAbeCgmgF46bNGjpywdN6fVjd8wBaFFXDe4K7xf6NjOG8hqX3w4GYk74\nEvx3kHTPEDLh9Eybpldj5PqpAEhyUJb7ytJvNOXMW6jn3ALOgKLDZBK42aOJ2Lo0\nra36MUL4xXQFb2JOTYnwXs6MYbmBmhU7fBk2mxiPPGE+2/QzSvkTSCR/vSpkzwkJ\nc1Oc4t3Sb3Y1ne6VecHVm3Nb1jqVZgkeqDth9IP0h3/i4YpTMyPk/N92/Ex5ERjV\nG+dFY0K6ec5HVgK1X1keiOE+HIoh2b2Iwn+MHT8fUxGiPjm/y0B4UvUtL/SvIFyk\nTunhXxALAgMBAAECggEAFBH7CL7qfnv22QFkJfJFEYK1axdYK2d7Ax25EJJlpm0m\nc71n4P0vAlyHRK6AOphAk7PXXUSKdw1a3Tt6zZIDOehOklcIDs3d4prHdPYm4cGK\nTAjR7FJR7qe9+eWO/GT3u9bIg8xaGnY2nqUbkUCD7FjQwNd5EGPEqnSbKEuBkOhZ\n8rOpcKfolsZ2DTqjN9GeVmBxxKxMya5IDFcP7nskZ/N1t1lwkq5uXpH/4W3/1Bpq\n2vhXXLYz2agPhYuaRvoBS5S0q5MHQ7tCw+CKv530OPyWm+BygD2E1ywmO3ZtvOQS\nVHvXHBEILdpF4eiyILpTakMl6exAkq4i7sYIEHaPcQKBgQD+ejbAsXCb+EALeT7O\nsR/qJm7QcldwUyIYZd06Ep+7hwVf3/R9K00n8WimrM8OHp+5pzZt+i3ZyaAsV63r\nc6DvZj5FinfOhN7yleWNaPEn2dlv4FBpBMJlSIP2DUCmHiLRkynrZWqgrf5csc2d\nEm0yaW7hleKKEn1U3SREmOVLJwKBgQD6Uvd2uZk72ryPtYB0VIG9d2rN8coArj7r\nq0gEiy3IKYUgkAMjiKLpp717DwWQIKePOtltE26wX5l9smAWd4e7JmiT57Bs93az\ntCfKsePsPg6EiufYnYfhsJVdgQbWlX9crVSaWs0lhN/oK01zP8wUnbtKQ80meXFD\nZkKgUb5yfQKBgQDLvCLb0PO8G1uDFBYBuvM3Ln/nqLNyfUw9xkgAt2pk46uc35tJ\nHwLNqMvFLXMz9bahF0tPb02IIJF5DtVyPQeqwuu2Fy7mC6DHDNVUiqEP66zWkfsu\nqR3Nounrcx7AID52FWEpUe+1JrgPlFZum5MLGjgoqSxOqJDpAYeI1/QzXwKBgHwD\npn23LWct0sUPkngPdcc75jnpU75KlPmEfcVifmfvyfh74FI2Wx+O7pyMsKDazKh0\n60rSmb/fXNedC2WWCjR5rs23tvwFDVWyJxSQVO6xP9gCSSJTyQHSzezpA05D+jkb\n1hIycffogFUxPsmeDakZC7SbKoOpHqfZfaCXXtaxAoGAdYypb+fXlT3ZRDut+3SI\nscARyNtRrfMLRpVGBq7xmIYiCwFi590YXtOvkBg8WpECbolS+7n/+eGpYpe2AqDI\n8uw4AWhYuPCT1RFa4mFDxT1thZTM9aP7+z5Fjl9NQh2QTpxAUhQzwUiRI3GmbdZ4\nikkibGDM+tsz8nt9UVvXKtw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "leitor-tutor-insights@custom-vigil-498821-e8.iam.gserviceaccount.com",
+  "client_id": "104218576564601097730",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/leitor-tutor-insights%40custom-vigil-498821-e8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
